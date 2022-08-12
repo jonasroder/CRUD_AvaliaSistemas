@@ -26,7 +26,7 @@ Esta aplicação foi desenvolida como parte do processo seletivo para a vaga de 
 
 
 
-- O arquivo index.php é utilizado como ponto de acesso, a partir dai, o a.htaccess e o core irão fazer o gerenciamento da url
+- O arquivo index.php é utilizado como ponto de acesso, a partir dai, o .htaccess e o core irão fazer o gerenciamento da url
 - Quando a Classe ou ou Método não existir, as Configurações do Core irão chamar a Classe e o método pré-definido.
 
  ![core](https://user-images.githubusercontent.com/81712575/184271194-00604da3-3090-44bc-919c-7483b786ad06.jpg)
