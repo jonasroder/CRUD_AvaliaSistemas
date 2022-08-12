@@ -15,9 +15,10 @@ Esta aplicação foi desenvolida como parte do processo seleteivo para a vaga de
 
 
 - Quando a Classe ou ou Método não existir, as Configurações do Core irão chamar a Classe e o método pré-definido.
-![core](https://user-images.githubusercontent.com/81712575/184271194-00604da3-3090-44bc-919c-7483b786ad06.jpg)
+
+ ![core](https://user-images.githubusercontent.com/81712575/184271194-00604da3-3090-44bc-919c-7483b786ad06.jpg)
 
 
-#CRUD
-https://user-images.githubusercontent.com/81712575/184272137-ba65ec19-0f69-4324-8353-f388f50e6b0b.mp4
+#
+[CRUD](https://user-images.githubusercontent.com/81712575/184272137-ba65ec19-0f69-4324-8353-f388f50e6b0b.mp4)
 
