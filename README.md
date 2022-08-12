@@ -1,7 +1,7 @@
 
 # Sobre o projeto
 
-Esta aplicação foi desenvolida como parte do processo seleteivo para a vaga de desenvolvedor WEB da empresa AvaliaSistemas. Todas as operações de CRUD (Listagem, insert, update e delete) são feitas com jQuery.
+Esta aplicação foi desenvolida como parte do processo seletivo para a vaga de desenvolvedor WEB da empresa AvaliaSistemas. Todas as operações de CRUD (Listagem, insert, update e delete) são feitas com jQuery.
 
 # Tecnologias utilizadas
 - PHP
