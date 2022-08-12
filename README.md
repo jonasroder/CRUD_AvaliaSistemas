@@ -20,5 +20,5 @@ Esta aplicação foi desenvolida como parte do processo seleteivo para a vaga de
 
 
 #
-[CRUD](https://user-images.githubusercontent.com/81712575/184272137-ba65ec19-0f69-4324-8353-f388f50e6b0b.mp4)
+[CRUD](https://user-images.githubusercontent.com/81712575/184274476-97ac6b66-f736-44db-8b1c-7b34e6155e2c.mp4)
 
